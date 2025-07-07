@@ -12,6 +12,12 @@ A mobile prototype built with Flutter that delivers personalized fertilizer reco
 
 Developed as part of a research and digital agriculture initiative while working at ICAR-INDIAN INSTITUTE OF SOIL SCIENCE
 
+## 🧰 Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Backend:**  AWS EC2
+- **GIS Server:** GeoServer
+- **Spatial Data Formats:** GeoTIFF, Shapefiles
 
 # Getting Started
 
@@ -25,3 +31,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## ⚙️ Installation & Setup
+
+## Run the Flutter App
+
+# Clone the repository
+git clone https://github.com/arti-rajput/Geo-Fert-Mobile-App.git
+
+# Move into the project directory
+cd Geo-Fert-Mobile-App
+
+# Get all the dependencies
+flutter pub get
+
+# Run the app
+flutter run
